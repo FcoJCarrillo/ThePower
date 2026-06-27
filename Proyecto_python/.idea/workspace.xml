@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98be18e4-7e06-45e5-88a9-407f55f65436" name="Changes" comment="" />
+    <list default="true" id="98be18e4-7e06-45e5-88a9-407f55f65436" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Ejercicios/31.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/31.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/32.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/32.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/33.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/33.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/38.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/38.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/39.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/39.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/40.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/40.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/41.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/41.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "proyecto__python",
-    "last_opened_file_path": "C:/ThePower/Proyecto_python",
-    "settings.editor.selected.configurable": "configurable.group.project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;proyecto__python&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ThePower/Proyecto_python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.project&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.7">
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Proyecto_python" />
