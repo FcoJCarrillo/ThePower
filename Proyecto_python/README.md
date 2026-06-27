@@ -1,6 +1,15 @@
-Tu repositorio tiene que constar, al menos, de los siguientes archivos/carpetas:
+# Proyecto: DataProject: Lógica. Katas Python
+### **Autor:** Francisco Javier Carrillo Carrillo
 
+---
 
-● Archivo README.md, que recoja los pasos seguidos durante el proyecto.
+## 📝 Descripción
 
-● Un archivo .py con los ejercicios resueltos. Cada ejercicio tiene que ir encabezado con un comentario con el enunciado del ejercicio.
+Estan todos los ejercicios resueltos la versión de python utilizada es la versión 3.11.1
+---
+
+## 🚀 Tecnologías Utilizadas
+
+* **Python:** Utilizado como lenguaje de programación para la realización de los ejercicios.
+
+---
