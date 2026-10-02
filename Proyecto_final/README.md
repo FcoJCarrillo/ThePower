@@ -23,6 +23,7 @@ Proyecto_final/
 │   ├── interim/      # Datos limpios por fuente
 │   └── processed/    # Dataset final (CSV y Excel para Power BI)
 ├── src/              # Scripts de limpieza, unión y exportación
+├── main.py           # Ejecuta el pipeline completo en orden
 ├── notebooks/        # EDA y análisis estadístico ⏳
 ├── dashboard/        # Archivo .pbix de Power BI ⏳
 ├── docs/             # Informe ⏳
@@ -48,10 +49,10 @@ python -m venv .venv
 .venv\Scripts\activate          # si PowerShell lo bloquea: Set-ExecutionPolicy -Scope Process RemoteSigned
 pip install -r requirements.txt
 
-python src/01_limpieza_crimenes.py
-python src/02_limpieza_clima.py
-python src/03_union_exportacion.py
+python main.py                  # ejecuta los 3 scripts en orden
 ```
+
+O paso a paso: `python src/01_limpieza_crimenes.py`, `python src/02_limpieza_clima.py` y `python src/03_union_exportacion.py`.
 
 En VS Code: `Ctrl+Shift+P` → *Python: Select Interpreter* → elegir el de `.venv`.
 
